@@ -9,7 +9,7 @@
 </head>
 <body>
 	<div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-5 border-bottom shadow-sm " style="background-color: white;">
-		<h1>Заполните форму</h1>
+		<h1>Форма</h1>
 	</div>
 	<?php 
 		if (!empty($messages)) {
